@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="270" viewBox="0 0 220 270">
+  <rect width="220" height="270" rx="8" fill="#eaf0f7"/>
+  <!-- head -->
+  <circle cx="110" cy="95" r="48" fill="#9fb3c8"/>
+  <!-- shoulders -->
+  <path d="M30 270 C30 190 70 165 110 165 C150 165 190 190 190 270 Z" fill="#1a3a5f"/>
+  <path d="M92 165 L110 195 L128 165" fill="#ffffff"/>
+  <!-- initials -->
+  <text x="110" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff">A M</text>
+  <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#5b6570">220 × 270</text>
+</svg>
